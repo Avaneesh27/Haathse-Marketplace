@@ -71,6 +71,12 @@ To run this project locally:
 
 ---
 
+## Deployment Link
+
+-https://haathse-marketplace.vercel.app/
+
+---
+
 ## Contributors
 
 - Aditya Singh
